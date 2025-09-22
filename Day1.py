@@ -1,0 +1,3 @@
+#Keywords are reserved words(Predefined words) such as def,for,if etc...
+import keyword
+print(keyword.kwlist) #it will give all keywords list
