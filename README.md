@@ -10,3 +10,11 @@
 - Studied different **data types**:
   - int, float, str, bool</>
 
+<h6>## Day 3
+  - Learned **type casting operators**: int(), float(), str(), bool()  
+  
+  - Learned **operators**:
+    - Arithmetic: +, -, *, /, //, %, **  
+    - Assignment: =, +=, -=, *=, /=, //=, %=  
+    - Comparison: ==, !=, >, <, >=, <=  
+    - Logical: and, or, not  
