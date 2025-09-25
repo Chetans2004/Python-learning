@@ -10,7 +10,7 @@
 
 # two_digit_number=input("Enter two digit number")
 # # first_num=two_digit_number[0]
-# # second_num=two_digit_number[1]
+# # second_num=two_digit_number[1] 
 
 # # print(int(first_num) + int(second_num))
 # print(int(two_digit_number[0]) + int(two_digit_number[1]))
