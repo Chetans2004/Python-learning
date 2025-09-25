@@ -9,7 +9,7 @@
 
 # # # # #2.Check if a number y = 20 is less than 10 OR greater than 15.
 # # # # y=20
-# # # # print(y<10 or y>15)
+# # # # print(y<10 or y>15) 
 
 # # # #3
 # # # a=10

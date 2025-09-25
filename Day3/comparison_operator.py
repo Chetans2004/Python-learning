@@ -8,7 +8,7 @@
 # # print(a==b)
 # # print(a>b)
 # # print(a<b)
-# # print(a!=b)
+# # print(a!=b) 
 # #2.Check if a number is greater than or equal to 0
 # num=100
 # print(num>=0)

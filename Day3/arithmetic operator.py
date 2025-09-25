@@ -11,7 +11,7 @@
 # print("Difference is"+ str(diff))
 
 
-#3.Multiply two floating-point numbers
+#3.Multiply two floating-point numbers 
 # num_1=float(input("Enter a number"))
 # num_2=float(input("Enter another number"))
 # multi=num_1*num_2

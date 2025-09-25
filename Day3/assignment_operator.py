@@ -6,7 +6,7 @@
 # sum=int(input("Enter number"))
 # sum+=10
 # print(sum)
-
+ 
 #2.Take a number and decrease it by 5 using
 
 # sub=int(input("Enter number"))
