@@ -16,5 +16,14 @@
   - Learned **operators**:
     - Arithmetic: +, -, *, /, //, %, **  
     - Assignment: =, +=, -=, *=, /=, //=, %=  
-    - Comparison: ==, !=, >, <, >=, <=  
-    - Logical: and, or, not  
+    - Comparison: ==, !=, >, <, >=, <=  </h6>
+
+
+<h6> 
+## Day 4
+-Learned **String**
+-Single line String
+-Multi line string
+-Accessing Individul character from Starting
+-Accessing Individul character from last
+</h6>
