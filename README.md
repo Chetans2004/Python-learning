@@ -27,3 +27,9 @@
 -Accessing Individul character from Starting
 -Accessing Individul character from last
 </h6>
+
+<h6> 
+## Day 4
+-Learned ** more about String**
+-Slicing
+</h6>
