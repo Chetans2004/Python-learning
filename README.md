@@ -4,11 +4,13 @@
   -Basic of Python
   -Keywords
   -Identifiers</h6>
+
+
 <h6>## Day 2
 - Learned about **input() function**  
 - Understood **variables** (used to store data)  
 - Studied different **data types**:
-  - int, float, str, bool</>
+  - int, float, str, bool</h6>
 
 <h6>## Day 3
   - Learned **type casting operators**: int(), float(), str(), bool()  
@@ -29,7 +31,7 @@
 </h6>
 
 <h6> 
-## Day 4
+## Day 5
 -Learned ** more about String**
 -Slicing
 </h6>
