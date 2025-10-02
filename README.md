@@ -35,3 +35,9 @@
 -Learned ** more about String**
 -Slicing
 </h6>
+
+
+<h6> 
+## Day 
+-Learned **String Formating**
+</h6>
