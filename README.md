@@ -53,5 +53,19 @@ Today I learned about control statements in Python, which help us control the fl
 - **Examples**
   - Checking even or odd numbers
   - Grade calculation based on marks
+  - Leap year checking</h6
+  >
+
+  ## Day 7 - Control Statements in Python
+
+Today I learned about control statements in Python, which help us control the flow of our program:
+
+- **if**
+- **if-else**
+- **elif**
+- **Nested if**
+- **Examples**
+  - Checking even or odd numbers
+  - Grade calculation based on marks
   - Leap year checking</h6>
 
