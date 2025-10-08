@@ -55,17 +55,22 @@ Today I learned about control statements in Python, which help us control the fl
   - Grade calculation based on marks
   - Leap year checking</h6
   >
+ 
+### Day 8  1. Lists
+- Creating lists
+- Accessing elements using indexing
+- Slicing lists
+- Updating elements (mutable objects)
+- List methods: `append()`, `pop()`, `remove()`, etc.
+- Nested lists (lists of lists)
+- Example: 3x3 matrix with user input to update elements
 
-  ## Day 7 - Control Statements in Python
+### Day 9 Tuples
+- Immutable sequences
+- Creating tuples: tup = (1, 2, 3)
+- Accessing elements and slicing
+- Counting elements with .count()
 
-Today I learned about control statements in Python, which help us control the flow of our program:
 
-- **if**
-- **if-else**
-- **elif**
-- **Nested if**
-- **Examples**
-  - Checking even or odd numbers
-  - Grade calculation based on marks
-  - Leap year checking</h6>
 
+  
