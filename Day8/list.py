@@ -63,4 +63,56 @@
 # numbers=[1, 2, 3, 4, 5, 6, 7]
 
 # print(numbers[1: :2])
+# # # list1=[10,34,90,['Mohan','Shayam','Ram'],89]
+# # # a=list1[3][2]
+# # # print(a)
 
+# # # list1=[1,1,1]
+# # # list2=[1,1,1]
+# # # list3=[1,1,1]
+# # # matrix=[list1,list2,list3]
+# # # print(f"{list1}\n{list2}\n{list3}\n")
+# # # position=input("Enter position where you want to hide your money")
+# # # row_number=int(position[0])
+# # # column_number=int(position[1])
+# # # selected_row=matrix[row_number-1]
+# # # selected_row[column_number-1]='X'
+
+# # # print(f"{list1}\n{list2}\n{list3}\n")
+
+# # Create a 3×3 matrix filled with 0s.
+# # Ask the user to enter a position (like "12") and change that position to 9.
+# # Then print the updated matrix
+# list1=[0,0,0]
+# list2=[0,0,0]
+# # list3=[0,0,0]
+# # print(f" {list1}\n {list2}\n {list3}\n")
+# # position=input("enter a position")
+# # matrix=[list1,list2,list3]
+# # row_number=int(position[0])
+# # column_number=int(position[1])
+# # selected_row=matrix[row_number-1]
+# # selected_row[column_number-1]=9
+# # print(f" {list1}\n {list2}\n {list3}\n")
+
+
+# # Make a 4×4 matrix filled with *.
+# # Ask the user to enter a position (like "34") and replace that position with "@"
+
+# list1=[2,2,2]
+# list2=[2,2,2]
+# list3=[2,2,2]
+# list4=[2,2,2]
+# print(f"{list1} \n {list2} \n{list3} \n{list4} \n")
+# nested_list=[list1,list2,list3,list4]
+# position=input("Enter your Position")
+# row_number=int(position[0])
+# column_number=int(position[1])
+
+# selected_row=nested_list[row_number-1]
+# selected_row[column_number-1]=9
+# print(f" {list1}\n {list2}\n {list3}\n{list4}")
+
+
+
+ 
