@@ -71,6 +71,12 @@ Today I learned about control statements in Python, which help us control the fl
 - Accessing elements and slicing
 - Counting elements with .count()
 
+### Day 10 Sets
+- Sets are mutable
+- Unindexed
+- Do not contain duplicates
+- Slicing is not allow
+
 
 
   
