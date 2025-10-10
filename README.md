@@ -77,6 +77,10 @@ Today I learned about control statements in Python, which help us control the fl
 - Do not contain duplicates
 - Slicing is not allow
 
+### Day 11  :Loops in python
+- for loop
+- while loop
+
 
 
   
