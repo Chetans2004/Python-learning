@@ -80,7 +80,10 @@ Today I learned about control statements in Python, which help us control the fl
 ### Day 11  :Loops in python
 - for loop
 - while loop
-
+### Day 12  :Learned about Loop Control Statements
+- break
+- continue
+- pass
 
 
   
