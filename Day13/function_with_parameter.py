@@ -4,6 +4,12 @@
 ## Difference between parameter and arguments
 #Whenever we difine a variable inside a function that is parameter
 #Actual valus we pass the functions its calling time it is arguments
-def greet(name):
-    print(f"Hi {name}")
-greet("Chetan")
+# def greet(name):
+#     print(f"Hi {name}")
+# greet("Chetan")#
+
+#Write a function that takes two numbers and prints their sum.
+def sum(a,b):
+    c=a+b
+    print(c)
+sum(2,1)

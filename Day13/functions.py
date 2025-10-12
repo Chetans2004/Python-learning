@@ -5,6 +5,24 @@
 
 
 #Examples
-def greet():
-    print("Helllo")
-greet()
+# def greet():
+#     print("Helllo")
+# greet()
+
+
+#Write a function to print all numbers from 1 to 10.
+# def numbers():
+#     for i in range(1,11):
+#         print(i)
+# numbers()
+
+# #Write a function that prints the sum of numbers from 1 to 100
+# def sum():
+#     sums=0
+#     for i in range(1,101):
+#         sums+=i
+#         print(sums)
+# sum()
+
+
+
